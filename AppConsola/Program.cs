@@ -6,8 +6,7 @@ class Program
 {
     static void Main()
     {
-        // Se asegura de crear la bd automaticamente si no existe, y si existe no hace nada
-        // LO APLIQUE PARA QUE NO HAYA QUE CREAR LA BD MANUALMENTE PORQUE HAY VECES QUE ME GENERA ERROR DE CREACION DE MIGRACIONES Y ME ACOSTUMBRE ASI, LO SAQUE DE LA IA A ESTA SOLUCION
+        // Se asegura de que la BD exista
         using var context = new AplicationDbContext();
         context.Database.EnsureCreated();
 
@@ -25,6 +24,7 @@ class Program
             Console.WriteLine("5. Cantidad total de canciones");
             Console.WriteLine("6. Mostrar canciones ordenadas alfabéticamente");
             Console.WriteLine("7. Verificar si existen canciones registradas");
+            Console.WriteLine("8. Ver artistas");
             Console.WriteLine("0. Salir");
             Console.Write("Opción: ");
             opcion = int.Parse(Console.ReadLine());
@@ -71,9 +71,13 @@ class Program
                 case 7:
                     Console.WriteLine(repoCanciones.Listar().Any() ? "Existen canciones registradas." : "No hay canciones registradas.");
                     break;
+
+                case 8:
+                    foreach (var a in repoArtistas.Listar())
+                        Console.WriteLine($"Id: {a.Id} - Nombre: {a.Nombre}");
+                    break;
             }
 
         } while (opcion != 0);
     }
 }
-
