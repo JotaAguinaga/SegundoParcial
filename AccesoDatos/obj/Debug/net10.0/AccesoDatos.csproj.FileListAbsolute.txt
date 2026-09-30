@@ -11,3 +11,17 @@ C:\Users\joaqu\Desktop\Practica Prog\Work in class\AppConsola\AccesoDatos\obj\De
 C:\Users\joaqu\Desktop\Practica Prog\Work in class\AppConsola\AccesoDatos\obj\Debug\net10.0\AccesoDatos.pdb
 C:\Users\joaqu\Desktop\Practica Prog\Work in class\AppConsola\AccesoDatos\obj\Debug\net10.0\ref\AccesoDatos.dll
 C:\Users\joaqu\Desktop\Practica Prog\Work in class\AppConsola\AccesoDatos\obj\Debug\net10.0\AccesoDa.B2719C34.Up2Date
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\bin\Debug\net10.0\AccesoDatos.deps.json
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\bin\Debug\net10.0\AccesoDatos.dll
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\bin\Debug\net10.0\AccesoDatos.pdb
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\obj\Debug\net10.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\obj\Debug\net10.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\obj\Debug\net10.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\obj\Debug\net10.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\obj\Debug\net10.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\obj\Debug\net10.0\AccesoDatos.sourcelink.json
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\obj\Debug\net10.0\AccesoDatos.dll
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\obj\Debug\net10.0\refint\AccesoDatos.dll
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\obj\Debug\net10.0\AccesoDatos.pdb
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\obj\Debug\net10.0\ref\AccesoDatos.dll
+C:\Users\joaqu\Desktop\Practica Prog\GitHub\SegundoParcial\AccesoDatos\obj\Debug\net10.0\AccesoDa.B2719C34.Up2Date
