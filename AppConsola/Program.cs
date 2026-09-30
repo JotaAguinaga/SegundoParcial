@@ -6,7 +6,10 @@ class Program
 {
     static void Main()
     {
-        // Se asegura de que la BD exista
+        // Se asegura de crear la bd si no existe, y si existe no hace nada
+        // Uso esto porque asi no tengo que crear la bd manualmente, y si la borro y vuelvo a ejecutar el programa, se vuelve a crear
+        // Hay veces que crearla manualmente no me deja, por eso busque este metodo que lo crea automaticamente. instale igualmente los paquetes de entity framework core tools y sql server, pero no me funciono, asi que use este metodo.
+        // pero en un proyecto real no se haria asi, usaria migraciones para crear la bd y actualizarla.
         using var context = new AplicationDbContext();
         context.Database.EnsureCreated();
 
@@ -53,7 +56,7 @@ class Program
                     break;
 
                 case 4:
-                    var largas = repoCanciones.Listar().OrderByDescending(c => c.DuracionSeg).Take(5);
+                    var largas = repoCanciones.Listar().OrderByDescending(c => c.DuracionSeg).Take(5); //solo toma a partir de las 5 canciones mas largas, por ende si hay mas, no las muestra
                     foreach (var c in largas)
                         Console.WriteLine($"{c.Titulo} - {c.DuracionSeg}s");
                     break;

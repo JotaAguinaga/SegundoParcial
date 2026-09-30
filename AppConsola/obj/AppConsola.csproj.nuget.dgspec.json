@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\AppConsola\\AppConsola\\AppConsola.csproj": {}
+    "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\SegundoParcial\\AppConsola\\AppConsola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\AppConsola\\AccesoDatos\\AccesoDatos.csproj": {
+    "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\SegundoParcial\\AccesoDatos\\AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\AppConsola\\AccesoDatos\\AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\SegundoParcial\\AccesoDatos\\AccesoDatos.csproj",
         "projectName": "AccesoDatos",
-        "projectPath": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\AppConsola\\AccesoDatos\\AccesoDatos.csproj",
+        "projectPath": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\SegundoParcial\\AccesoDatos\\AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\AppConsola\\AccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\SegundoParcial\\AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -347,14 +347,14 @@
         }
       }
     },
-    "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\AppConsola\\AppConsola\\AppConsola.csproj": {
+    "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\SegundoParcial\\AppConsola\\AppConsola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\AppConsola\\AppConsola\\AppConsola.csproj",
+        "projectUniqueName": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\SegundoParcial\\AppConsola\\AppConsola.csproj",
         "projectName": "AppConsola",
-        "projectPath": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\AppConsola\\AppConsola\\AppConsola.csproj",
+        "projectPath": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\SegundoParcial\\AppConsola\\AppConsola.csproj",
         "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\AppConsola\\AppConsola\\obj\\",
+        "outputPath": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\SegundoParcial\\AppConsola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -372,8 +372,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\AppConsola\\AccesoDatos\\AccesoDatos.csproj": {
-                "projectPath": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\AppConsola\\AccesoDatos\\AccesoDatos.csproj"
+              "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\SegundoParcial\\AccesoDatos\\AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\joaqu\\Desktop\\Practica Prog\\Work in class\\SegundoParcial\\AccesoDatos\\AccesoDatos.csproj"
               }
             }
           }
